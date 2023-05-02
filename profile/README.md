@@ -1,5 +1,4 @@
 # Unknow Indie Studio
-![Texto alternativo](https://i.imgur.com/tS2tCPu.png)
 
 | ![Texto alternativo](https://i.imgur.com/67dXKxP.png) | ![Texto alternativo](https://i.imgur.com/qTmjx9c.png) | ![Texto alternativo](https://i.imgur.com/inrls6y.png) |  ![Texto alternativo](https://i.imgur.com/r5r5c8L.png) | 
 | ---------------- | --------------- | --------------- | --------------- |
