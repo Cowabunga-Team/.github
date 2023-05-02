@@ -1,12 +1,8 @@
-## Hi there 👋
+# COWABUNGA GAME PROJECT
+![Texto alternativo](https://i.imgur.com/tS2tCPu.png)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| ![Texto alternativo](https://i.imgur.com/67dXKxP.png) | ![Texto alternativo](https://i.imgur.com/qTmjx9c.png) | ![Texto alternativo](https://i.imgur.com/inrls6y.png) |  ![Texto alternativo](https://i.imgur.com/r5r5c8L.png) | 
+| ---------------- | --------------- | --------------- | --------------- |
+| Lead Programmer | Technical Artist | 3d Artist | 3d Animator |
+| polsegu | Yhuta | navarro013 | pollitafina |
+| polsegu11@gmail.com | sergi.ortega166@gmail.com | alexnavarromarsal@gmail.com | pauroucoparra@gmail.com |
